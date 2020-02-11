@@ -77,6 +77,7 @@ body {
   background-color: white;
   max-height: 0;
   overflow: hidden;
+  max-width: 1140px;
   transition: max-height 0.2s ease-out;
 }
 .center {
@@ -87,7 +88,4 @@ body {
   border: 3px solid #4CAF50;
   max-width: 1140px;
 }
-}
-  .p {
-max-width: 1140px;
 }
