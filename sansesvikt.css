@@ -74,10 +74,10 @@ body {
 
 .panel {
   padding: 0 18px;
-  background-color: blue;
+  background-color: white;
   max-height: 0;
   overflow: hidden;
-  max-width: 1100px;
+  max-width: 1102px;
   transition: max-height 0.2s ease-out;
 }
 .center {
