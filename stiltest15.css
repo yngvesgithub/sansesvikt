@@ -14,9 +14,9 @@
 
   .sortboks{
     position: absolute;
-    color: black;
-    background-color: white;
-    top: 550px;
+    color: #000000;
+    background-color: #ffffff;
+    top: 1550px;
     left: 600px;
     z-index: 3;
     width: 140px;
