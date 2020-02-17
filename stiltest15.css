@@ -1,7 +1,7 @@
    .gulboks{
-    position: absolute;
+    position: relative;
     color: maroon;
-    background-color: blue;
+    background-color: white;
     top: 500px;
     left: 40px;
     z-index: 0;
