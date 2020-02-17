@@ -1,8 +1,8 @@
    .gulboks{
     position: absolute;
     color: maroon;
-    background-color: none;
-    top: 20px;
+    background-color: blue;
+    top: 500px;
     left: 40px;
     z-index: 0;
     width: 300px;
