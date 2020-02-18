@@ -2,7 +2,7 @@
     position: fixed;
     color: maroon;
     background-color: white;
-    top: 250px;
+    top: 100px;
     left: 40px;
     z-index: 0;
     width: 300px;
@@ -16,7 +16,7 @@
     position: absolute;
     color: #000000;
     background-color: #ffffff;
-    top: 1550px;
+    top: 100px;
     left: 600px;
     z-index: 3;
     width: 140px;
