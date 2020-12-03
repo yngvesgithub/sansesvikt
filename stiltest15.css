@@ -3,13 +3,13 @@
     color: maroon;
     background-color: white;
     top: 100px;
-    left: 40px;
+    left: 240px;
     z-index: 0;
     width: 600px;
     height: 300px;
     padding: 30px;
     font-size: 20px;
-    border:1px solid #000000;
+    border:2px solid #000000;
   }
 
   .sortboks{
